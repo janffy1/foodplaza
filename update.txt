@@ -1,0 +1,3 @@
+my name is preye sunday
+my favorite devops tool aws
+my favorite git commad is gitclone
